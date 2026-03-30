@@ -29,7 +29,6 @@ BDD: mySQL
 │ ├── controllers/ 
 │ ├── models/
 │ ├── middleware/ 
-│ ├── validations/
 │ ├── config/
     └── db.js
 ├── app.js
